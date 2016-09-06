@@ -1,4 +1,6 @@
 class PagesController < ApplicationController
+  
+  # bacl-end code for x
   def index
   end
 
