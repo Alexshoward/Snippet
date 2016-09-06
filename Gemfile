@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
-
+# We
+gem 'devise'
 #for snippet ui components
 gem 'bootstrap-sass', '~> 3.3.6'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
